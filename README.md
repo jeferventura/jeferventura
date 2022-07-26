@@ -41,7 +41,7 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
  <br>
-  ### Me acompanhe nas Redes Sociais!
+ <h2 style="color:#1A1C1E">Me acompanhe nas Redes Sociais</h2>
  
 <div style="display: inline_block> 
   <a href="https://instagram.com/jeferventura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
